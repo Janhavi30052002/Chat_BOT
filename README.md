@@ -1,8 +1,7 @@
 # Chat_BOT
 # Simple Python Chatbot
 
-
-A basic chatbot built in Python that can respond to user queries and perform tasks.
+A basic chatbot built in Python that can recognize text & respond to user queries and perform tasks.
 
 ## Introduction
 
@@ -19,56 +18,39 @@ This Python chatbot is designed to demonstrate the fundamental principles of bui
 - Python 3.6 or higher
 
 ## Installation
-
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-python-chatbot.git
+   git clone (https://github.com/Janhavi30052002/Chat_BOT.git)
    cd simple-python-chatbot
    ```
 
-2. Create a virtual environment (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
-
-1. Run the chatbot:
+Run the chatbot:
 
    ```bash
    python chatbot.py
    ```
 
-2. Follow the on-screen instructions to interact with the chatbot.
 
 ## Examples
 
 Here are some example conversations with the chatbot:
 
-- User: "What's the weather today?"
-  - Chatbot: "I'm sorry, I can't provide weather information."
+- User: "Hi"
+  - Chatbot: "Hello"
 
-- User: "Tell me a joke."
-  - Chatbot: "Why did the programmer go broke? Because he used up all his cache!"
+- User: "Give Advice"
+  - Chatbot: "If I were you, I would go to the internet and type exactly what you wrote there!"
 
 Feel free to customize the chatbot's responses and add your own functionality by editing the `chatbot.py` file.
 
+## Output
+![WhatsApp Image 2023-09-22 at 18 35 09](https://github.com/Janhavi30052002/Chat_BOT/assets/114862128/184b2fc2-abd5-4cb7-9ce5-9ca2b379f1b2)
+
+
 ## Contributing
 
-Contributions are welcome! If you'd like to enhance this chatbot or fix any issues, please fork the repository and submit a pull request. Make sure to follow the [Contributing Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to enhance this chatbot or fix any issues, please fork the repository and submit a pull request. 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Please note that this is a basic template, and you should tailor it to your specific chatbot project. You can add more details about the chatbot's functionality, architecture, and usage, as well as improve the installation and contribution sections as needed.
